@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+#navigation{
+	position:fixed;
+	width:100%;
+}
+#navigation li {
+	font-size: 30px;
+	font-family: Arial;
+	display: inline-block;
+	list-style-type: none;
+	font-weight: bold;
+	margin-top:40px;
+	
+}
+#navigation a {
+	padding: 15px 20px;
+	background-color:red;
+	color:white;
+	text-decoration:none;
+}
+#navigation a:hover {
+	background-color:white;
+	color:black;
+}
+h2 {
+	margin-top: 200px;
+	text-align: center;
+
+}
